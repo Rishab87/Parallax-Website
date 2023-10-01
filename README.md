@@ -3,7 +3,7 @@
 ![parallax_gif](parallax.gif)
 
 ## Description:
-This is website made using HTML and CSS with parallax effect. To add parallax effect I used perspective property of CSS which basically turned on the Z-axis. Made the image far from the screen and then scaled it.
+This website is made using HTML and CSS with parallax effect. To add parallax effect I used perspective property of CSS which basically turned on the Z-axis. Made the image far from the screen and then scaled it.
 
 
 ## Tutorials: 
